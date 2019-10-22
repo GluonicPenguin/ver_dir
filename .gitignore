@@ -1,0 +1,3 @@
+# Script of files to ignore in Git updates
+*.o
+*.pyc
