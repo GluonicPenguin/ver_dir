@@ -1,3 +1,8 @@
+# Versioned Directory
+
+[ ![Travis Build Status](https://travis-ci.org/GluonicPenguin/ver_dir.svg?branch=master) ]
+(https://travis-ci.org/GluonicPenguin/ver_dir)
+
 # Hello Excellent, Useful GitHub
 
 This is a README.md file that will be used to describe this
